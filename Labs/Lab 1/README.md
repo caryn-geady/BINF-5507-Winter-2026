@@ -14,9 +14,15 @@ Welcome to Lab 1! In this lab, we will guide you through the process of getting 
 4. Choose whether to make it public or private.
 5. Click **Create repository**.
 
-## Step 3: Install Git (if necessary)
+## Step 3A: Install Git (if necessary)
 - If you don't have Git installed, download it from [git-scm.com](https://git-scm.com/).
 - Follow the installation instructions for your operating system.
+
+## Step 3B: Configure Git with Your Name and Email
+1. Open VS Code and open the terminal (View > Terminal).
+2. Set your name with: `git config --global user.name "Your Name"`
+3. Set your email with: `git config --global user.email "your.email@example.com"`
+4. Verify your settings with: `git config --global --list`
 
 ## Step 4: Install Required Extensions in VS Code
 1. Open VS Code.
