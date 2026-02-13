@@ -7,8 +7,17 @@ Lab code for the Winter 2026 term for ML/AI in Clinical Bioinformatics (BINF 550
 ### [Lab 1: Getting Set Up with GitHub!](Labs/Lab%201) 🎉
 Learn the basics of GitHub and VS Code integration. Create your first repository, clone it to your local machine, and make your first commit. Perfect for absolute beginners!
 
-### Lab 2: Data Cleaning and Preprocessing
+### [Lab 2: Data Cleaning and Preprocessing](Labs/Lab%202)
+Work with messy datasets and learn essential data cleaning techniques using Python and pandas.
+
+### [Lab 3: Supervised Learning I](Labs/Lab%203)
+Try out linear, polynomial and logistic regression for regression and classification.
+
+### Lab 4: Supervised Learning II
 Coming soon...
+
+### [Lab 5: Clustering Analysis](Labs/Lab%205)
+Apply clustering algorithms to NSCLC (Non-Small Cell Lung Cancer) data and determine optimal cluster numbers.
 
 ## 📂 Additional Resources
 
