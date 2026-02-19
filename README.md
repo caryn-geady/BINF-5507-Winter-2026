@@ -19,6 +19,9 @@ Coming soon...
 ### [Lab 5: Clustering Analysis](Labs/Lab%205)
 Apply clustering algorithms to NSCLC (Non-Small Cell Lung Cancer) data and determine optimal cluster numbers.
 
+### [Lab 6: Dimensionality Reduction](Labs/Lab%206)
+Explore dimensionality reduction techniques to visualize and analyze high-dimensional data.
+
 ## 📂 Additional Resources
 
 Check out the [Supplementary](Supplementary) folder for additional materials and resources. 
