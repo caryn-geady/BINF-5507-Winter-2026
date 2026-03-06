@@ -37,7 +37,7 @@ def greet(name: str) -> str:
 from utils import greet
 
 if __name__ == "__main__":
-    print(greet("Caryn"))
+    print(greet("Coding Enthusiast!"))
 ```
 
 **Run from `project/`:**
