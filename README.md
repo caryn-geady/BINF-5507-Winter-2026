@@ -22,6 +22,9 @@ Apply clustering algorithms to NSCLC (Non-Small Cell Lung Cancer) data and deter
 ### [Lab 6: Dimensionality Reduction](Labs/Lab%206)
 Explore dimensionality reduction techniques to visualize and analyze high-dimensional data.
 
+### [Lab 7: Survival Modeling](Labs/Lab%207)
+Apply survival analysis techniques including Cox regression, regularized Cox regression (LASSO), Random Survival Forest, and Kaplan-Meier curve analysis to time-to-event data, with hands-on application to NSCLC Radiogenomics data.
+
 ## 📂 Additional Resources
 
 Check out the [Supplementary](Supplementary) folder for additional materials and resources. 
