@@ -25,6 +25,12 @@ Explore dimensionality reduction techniques to visualize and analyze high-dimens
 ### [Lab 7: Survival Modeling](Labs/Lab%207)
 Apply survival analysis techniques including Cox regression, regularized Cox regression (LASSO), Random Survival Forest, and Kaplan-Meier curve analysis to time-to-event data, with hands-on application to NSCLC Radiogenomics data.
 
+### [Lab 8: Radiomics and Machine Learning for Imaging](Labs/Lab%208)
+Work with DICOM and NIfTI imaging data, extract radiomics features using PyRadiomics, and build survival/classification models to predict clinical outcomes.
+
+### [Lab 9: Pharmacogenomic Analysis](Labs/Lab%209)
+Analyze GDSC drug response data in breast cancer, frame IC50 prediction as a machine learning problem, and compare baseline and ensemble models.
+
 ## 📂 Additional Resources
 
 Check out the [Supplementary](Supplementary) folder for additional materials and resources. 
